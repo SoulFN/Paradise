@@ -1,0 +1,79 @@
+'2025-04-01':
+  BeebBeebBoob:
+  - bugfix: 'Revert bugfixes 516 TGUI chat say (#6710 and #6715) (#6746)'
+  NightDawnFox:
+  - bugfix: glockroach runtime on simple_find_target (#6741)
+  - bugfix: another basic runtime (I hope) (#6743)
+  TimChi:
+  - add: True-Observing port (#6665)
+  dageavtobusnick:
+  - bugfix: фикс автоаутфита респав машины (#6750)
+'2025-04-03':
+  Explosi00N:
+  - spellcheck: KC & Trophy Redo (#6751)
+  FlitchTime:
+  - qol: Моментальный ввод ресурсов в машинерию (#6689)
+  PlayerUnknown14:
+  - unknown: поменял расположение стойки с тактической кувалдой (#6656)
+  dageavtobusnick:
+  - bugfix: Возможное решение проблемы с потерей фокуса в tgui say при смене языка
+      на 516 (#6752)
+  - bugfix: Фикс Key Combo и Invectigate на 516 (#6748)
+  - bugfix: Теперь в турель нельзя установить БСП без ядра и БС кристаллов (#6755)
+  - refactor: замена browse(null) на макрос close_window (#6754)
+'2025-04-04':
+  NuSanya:
+  - bugfix: тенеморфу больно от битья лампочек (#6757)
+  TimChi:
+  - bugfix: хотфикс Auto-Observe + дополнения (#6753)
+'2025-04-05':
+  Antoonij:
+  - unknown: make borer code cleaner & new borer focuses (#6712)
+  NightDawnFox:
+  - add: mining medic (#6638)
+  - add: leaning to walls (#6707)
+  NuSanya:
+  - bugfix: резист к бруту у тенеморфов (#6758)
+  dageavtobusnick:
+  - bugfix: Tgui say zoom (#6756)
+  - tweak: Теперь гомункулы не бесконечны (#6729)
+  - tweak: Теперь за каждые 20 игроков сверх требуемого для режима будет +1 культист
+      (#6728)
+  - tweak: Набор барбера в карго (#6730)
+'2025-04-10':
+  BeebBeebBoob:
+  - bugfix: Alt Click Through walls & backpacks (#6772)
+  NightDawnFox:
+  - bugfix: добавил дополнительную проверку на "buckled", которая прекращает прислонение
+      к стене (#6763)
+  TimChi:
+  - bugfix: хотфикс Auto-Observe + дополнения часть 2 (#6765)
+  - bugfix: '(again) Autoobserve fix: 3 (#6777)'
+  dageavtobusnick:
+  - unknown: Исправление проблем с маштабированием и прочих проблем 516 (#6766)
+  - bugfix: Фикс контекстов (#6774)
+'2025-04-13':
+  Antoonij:
+  - code_imp: slightly optimize get_mob_by_ckey & signal_addtrait (#6776)
+  Arc:
+  - tweak: увеличиваем характеристики ригов СБ. (#6781)
+  FlitchTime:
+  - add: Монохуды и их крафт (#6721)
+  - tweak: Отключаем удаление всех записей сб (#6759)
+  - tweak: Големы культа быстрые (#6760)
+  L343-CJ:
+  - add: bomb satchel for emagged mining borg (#6574)
+  Testmerge Worker:
+  - add: Коса душ (#6733) [testmerge][e2ed16d]
+  TimChi:
+  - add: Singulo&GravAnomaly visual warps port (#6768)
+  Vesterlim13:
+  - admin: Malta fix/recast (#6767)
+  Vitalya:
+  - add: Плюшевый Чикабумчик (#6764)
+  dageavtobusnick:
+  - bugfix: Фиксы лицехватов и гринтекста биоугроз (#6778)
+  - bugfix: Эффекты взрыва теперь не уничтожаются самими взрывами (#6779)
+  - bugfix: Фикс html окон + Фикс модальных окон в тгуи (#6775)
+  spaghetti:
+  - tweak: Изменение механики работы зелья ускорения (#6711)
